@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @addy4web having 7 years of experience of IT and with 5 years web & Frontend development Experience, Hads on experince in HTML, CSS3, SCSS, Wordpress, Bootstrap, Foundation and also learing & Implementing the react.
+- 👋 Hi, I’m @addy4web having 7 years of experience of IT and with 5 years web & Frontend development Experience, Hands on experince in HTML, CSS3, SCSS, Wordpress, Bootstrap, Foundation, Bulma, Tailwind, JSX, javascript,jQuery, NextJS Templating and also learing & Implementing the react.
 - 👀 I’m interested in to grasp the new things of web era and implement these in my work.
 - 🌱 I’m currently learning Gatsby with wordpress Implementaion.
 - 📫 You can reach me at addy4web@gmail.com
